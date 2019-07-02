@@ -1,0 +1,8 @@
+assassin <-> ninja {'Akali 4', 'Zed 2'}
+brawler <-> void {"Cho'gath 4", "Rek'sai 2"}
+demon <-> shapeshifter {'Elise 2', 'Swain 5'}
+elementalist <-> glacial {'Anivia 5', 'Lissandra 2'}
+gunslinger <-> pirate {'Miss Fortune 5', 'Gangplank 3', 'Graves 1'}
+knight <-> noble {'Garen 1', 'Kayle 5'}
+shapeshifter <-> wild {'Gnar 4', 'Nidalee 1'}
+sorcerer <-> yordle {'Lulu 2', 'Veigar 3'}

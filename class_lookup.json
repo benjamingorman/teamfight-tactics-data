@@ -1,0 +1,153 @@
+{
+    "assassin": [
+        "Kha'zix 1",
+        "Pyke 2",
+        "Zed 2",
+        "Evelynn 3",
+        "Katarina 3",
+        "Rengar 3",
+        "Akali 4"
+    ],
+    "blademaster": [
+        "Fiora 1",
+        "Shen 2",
+        "Aatrox 3",
+        "Gangplank 3",
+        "Draven 4",
+        "Yasuo 5"
+    ],
+    "brawler": [
+        "Warwick 1",
+        "Blitzcrank 2",
+        "Rek'sai 2",
+        "Volibear 3",
+        "Cho'gath 4"
+    ],
+    "demon": [
+        "Elise 2",
+        "Varus 2",
+        "Aatrox 3",
+        "Evelynn 3",
+        "Morgana 3",
+        "Brand 4",
+        "Swain 5"
+    ],
+    "dragon": [
+        "Shyvana 3",
+        "Aurelion Sol 4"
+    ],
+    "elementalist": [
+        "Lissandra 2",
+        "Kennen 3",
+        "Brand 4",
+        "Anivia 5"
+    ],
+    "exile": [
+        "Yasuo 5"
+    ],
+    "glacial": [
+        "Braum 2",
+        "Lissandra 2",
+        "Ashe 3",
+        "Volibear 3",
+        "Sejuani 4",
+        "Anivia 5"
+    ],
+    "guardian": [
+        "Braum 2",
+        "Leona 4"
+    ],
+    "gunslinger": [
+        "Graves 1",
+        "Tristana 1",
+        "Lucian 2",
+        "Gangplank 3",
+        "Miss Fortune 5"
+    ],
+    "imperial": [
+        "Darius 1",
+        "Katarina 3",
+        "Draven 4",
+        "Swain 5"
+    ],
+    "knight": [
+        "Darius 1",
+        "Garen 1",
+        "Mordekaiser 1",
+        "Poppy 3",
+        "Sejuani 4",
+        "Kayle 5"
+    ],
+    "ninja": [
+        "Shen 2",
+        "Zed 2",
+        "Kennen 3",
+        "Akali 4"
+    ],
+    "noble": [
+        "Fiora 1",
+        "Garen 1",
+        "Vayne 1",
+        "Lucian 2",
+        "Leona 4",
+        "Kayle 5"
+    ],
+    "phantom": [
+        "Mordekaiser 1",
+        "Kindred 4",
+        "Karthus 5"
+    ],
+    "pirate": [
+        "Graves 1",
+        "Pyke 2",
+        "Gangplank 3",
+        "Miss Fortune 5"
+    ],
+    "ranger": [
+        "Vayne 1",
+        "Varus 2",
+        "Ashe 3",
+        "Kindred 4"
+    ],
+    "robot": [
+        "Blitzcrank 2"
+    ],
+    "shapeshifter": [
+        "Nidalee 1",
+        "Elise 2",
+        "Shyvana 3",
+        "Gnar 4",
+        "Swain 5"
+    ],
+    "sorcerer": [
+        "Kassadin 1",
+        "Ahri 2",
+        "Lulu 2",
+        "Morgana 3",
+        "Veigar 3",
+        "Aurelion Sol 4",
+        "Karthus 5"
+    ],
+    "void": [
+        "Kassadin 1",
+        "Kha'zix 1",
+        "Rek'sai 2",
+        "Cho'gath 4"
+    ],
+    "wild": [
+        "Nidalee 1",
+        "Warwick 1",
+        "Ahri 2",
+        "Rengar 3",
+        "Gnar 4",
+        "Kindred 4"
+    ],
+    "yordle": [
+        "Tristana 1",
+        "Lulu 2",
+        "Kennen 3",
+        "Poppy 3",
+        "Veigar 3",
+        "Gnar 4"
+    ]
+}
